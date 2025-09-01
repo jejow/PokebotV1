@@ -29,9 +29,6 @@ The bot is frame perfect and can _technically_ cheat by reading data from any po
 |---------------------------------|
 | ![image](wiki/images/shiny.gif) |
 
-|             Discord shiny notifications              |              Discord phase stats              |              Discord milestones              |
-|:----------------------------------------------------:|:---------------------------------------------:|:--------------------------------------------:|
-| ![image](wiki/images/discord_shiny_notification.png) | ![image](wiki/images/discord_phase_stats.png) | ![image](wiki/images/discord_milestones.png) |
 
 | HTTP API                           |
 |------------------------------------|
