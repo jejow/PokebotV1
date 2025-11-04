@@ -1,8 +1,6 @@
 # PokéBot Gen 3
 [![Wiki](wiki/images/badge_wiki.svg)](wiki/Readme.md) [![Python 3.12](wiki/images/badge_python.svg)](https://www.python.org/downloads/release/python-3132/) 
 
-[![Web Pokebot](🗾)](https://v0-pokemon-graph-project.vercel.app/)
-
 **PokéBot Gen3** is a shiny hunting bot, written in Python that runs `libmgba` + mGBA Python bindings under the hood. Pokémon Ruby, Sapphire, Emerald, FireRed and LeafGreen are supported. 
 
 # ❓ Getting Started
